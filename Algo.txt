@@ -1,5 +1,6 @@
 Decide which Store to order from
 Decide which type of Pizza to order
 Decide on toppings, sauce and crust
+Find store phone number
 Call the Store
 Place the order
